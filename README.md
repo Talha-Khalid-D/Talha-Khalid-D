@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
 <h3 align="center">A passionate Web Developer and Cyber Security Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms ,BackEnd Terminologies**
+- 🌱 I’m currently learning **Data Structures and Algorithms ,BackEnd Terminologies as well**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
