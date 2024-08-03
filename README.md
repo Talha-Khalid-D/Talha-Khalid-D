@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Khalid</h1>
 <h3 align="center">A passionate Web Developer and Cyber Security Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-khalid-d" alt="talha-khalid-d" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms ,BackEnd Terminologies**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
